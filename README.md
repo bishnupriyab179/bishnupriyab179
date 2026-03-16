@@ -76,7 +76,7 @@ Building scalable web applications • Passionate about DSA • Exploring backen
 
 ## 🚀 Memories – MERN Social Media App
 
-<a href="https://github.com/bishnupriya/memories-mern-app">
+<a href="https://github.com/bishnupriyab179/memories">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -90,7 +90,7 @@ React • Redux • Node.js • Express • MongoDB
 
 ## 🤖 AI Reviewer – AI Code Review Backend
 
-<a href="https://github.com/bishnupriya/ai-reviewer">
+<a href="https://github.com/aayushh-30/AI-Reviewer--OpenAI-">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -155,11 +155,11 @@ Kendriya Vidyalaya, Odisha
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://leetcode.com/bishnupriya">
+<a href="https://leetcode.com/u/bishnupriya6/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
 </a>
 
-<a href="https://github.com/bishnupriya">
+<a href="https://github.com/bishnupriyab179">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
 </a>
 
