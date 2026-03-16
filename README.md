@@ -130,7 +130,7 @@ React • Vite • JavaScript • CSS
 
 # 🏆 Achievements
 
-- 💻 Solved **400+ coding problems** across LeetCode, CodeChef, and GeeksforGeeks  
+- 💻 Solved **50+ coding problems** across LeetCode, CodeChef, and GeeksforGeeks  
 - 📜 Certified in **MERN Stack Development, Python Programming, and DevOps**  
 - ⚡ Strong foundation in **DSA, OOP, DBMS, OS, and Computer Networks**
 
